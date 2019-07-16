@@ -11,7 +11,6 @@ export class ProductAlertComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit() {
-  }
+  ngOnInit() { }
 
 }
